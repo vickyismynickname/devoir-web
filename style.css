@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 5px;
+}
+.body {
+    color: black;
+    justify-content: center;
+}
+.header nav {
+    justify-content: center;
+    display: flex;
+}
+.logo {
+    padding-left: 30px;
+}
+.nav {
+    padding-top: 2px;
+    display: flex;
+}
+
+.nav div ul li a {
+    display: flex;
+    text-decoration: none;
+    font-weight: 200px;
+    color: black
+}
+.countainer {
+    display: flex;
+    img
+}
